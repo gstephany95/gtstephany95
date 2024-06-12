@@ -1,45 +1,34 @@
 ---
-title: "Sigríður Björndotter"
-image: "sigridur.jpg"
+title: "Stephany Gonzalez Tineo"
+image: "PXL_20220424_035736700.jpg"
 links:
-  - label: Resume
+  - label: LinkedIn
     url: "https://linkedin.com/"
-  - label: Blog
-    url: "https://medium.com/"
-  - label: SoundCloud
+  - label: Instagram
     url: "https://soundcloud.com/"
-  - label: Twitter
-    url: "https://twitter.com/"
 output:
   postcards::solana
 ---
  
 ## Bio
 
-Sigríður Björndotter is a musician, vocalist, and live entertainment consultant
-living in Buenos Aires, Argentina. Her writing has appeared in Rolling Stone,
-Billboard, and NME, and she is a frequent contributor to National Public Radio's 
-*All Songs Considered*. She has been raising Pembroke Welsh Corgis since the age
-of six, and she has collected Casio watches since the age of ten.
+A work in Progress...
 
 ## Education
 
-**INSEAD** | Fontainebleau, France
+**University of North Carolina-Chapel Hill** | Chapel Hill, NC
 
-M.B.A. | August 2014 - June 2015
+Ph.D. in Pharmaceutical Sciences | August 2022 - Present
 
-**The Juilliard School** | New York, NY
+**University of Arizona** | Tucson, AZ
 
-B.F.A. in Music Performance | August 2005 - May 2009
+B.S. in Molecular Cellular Biology | August 2013 - May 2017
 
 ## Experience
 
-**Freelance** | Live Entertainment Consultant | August 2018 - Present
+**Caris Life Sciences** | Live Entertainment Consultant | August 2021 - May 2022.
 
-**Cercle** | Producer | August 2018 - Present
+**Cyrex** | ELISA & Flow Cytometry Technician | August 2019 - August 2021
 
-**National Public Radio** | Producer | May 2015 - July 2018
+**University of Arizona-Phoenix** | Research Technician | May 2017 - July 2018
 
-**NME Magazine** | Editor | July 2014 - July 2016
-
-**Iceland Symphony Orchestra** | Cellist | October 2009 - June 2014
