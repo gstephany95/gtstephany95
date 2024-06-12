@@ -3,9 +3,9 @@ title: "Stephany Gonzalez Tineo"
 image: "PXL_20220424_035736700.jpg"
 links:
   - label: LinkedIn
-    url: "https://linkedin.com/"
+    url: "https://www.linkedin.com/in/stephany-gonzalez-tineo-460b5b132/"
   - label: Instagram
-    url: "https://soundcloud.com/"
+    url: "https://www.instagram.com/gstephany95/"
 output:
   postcards::solana
 ---
